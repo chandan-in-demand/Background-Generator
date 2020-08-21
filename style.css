@@ -1,0 +1,25 @@
+body{
+	color: rgba(0,0,0,0.5);
+	background: linear-gradient(to right, red, yellow);
+	text-align: center;
+	text-transform: uppercase;;
+	letter-spacing: .5em;
+	top: 15%;
+}
+h1{
+	width: 100%;
+	letter-spacing: .5em;
+}
+
+h3{	
+	text-transform: none;
+	letter-spacing: 0.02em;
+}
+
+button{
+	height: 50px;
+	background-color: rgba(0,0,0,0.2);
+	color: white;
+	font-style: italic;
+	width: 20%;
+}
